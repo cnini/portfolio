@@ -1,17 +1,13 @@
 #loader {
     z-index: 200;
+    scale: 1;
     width: 100vw;
     height: 100vh;
     background-color: #8d6a4e;
     position: fixed;
     top: 0;
+    left: 0;
     display: grid;
     align-items: center;
     justify-content: center;
-}
-
-.loading__text {
-    font-family: 'Playwrite MX', cursive;
-    font-size: 5rem;
-    margin-right: 4.5rem;
 }
